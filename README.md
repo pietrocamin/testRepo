@@ -6,3 +6,5 @@ Che bella giornata.
 
 ### Errore
 Test
+
+### questo è stato aggiunto tramite Visual code
