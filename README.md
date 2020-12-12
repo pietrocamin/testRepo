@@ -8,5 +8,4 @@ Che bella giornata.
 Test
 
 ### questo è stato aggiunto tramite Visual code
-eccoci qua prova 2
-/tè andato tutto bene
+eccoci qua prova 2 <br> è andato tutto bene
